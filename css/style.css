@@ -1,0 +1,12 @@
+#skills h2, #skills h1{
+	color: #394760;
+}
+#skills{
+	text-align: center;
+	background-color: white;
+}
+@media only screen and (max-width : 480px){
+	.slider{
+	padding: 0px 30px;
+	}
+}
